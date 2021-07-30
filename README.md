@@ -10,7 +10,7 @@ Resources relevant to visualisation of isotopic results collected by Esther Plom
 * [Advances in global bioavailable strontium isoscapes](https://doi.org/10.1016/j.palaeo.2020.109849) by Bataille et al. 2020 [GoogleDrive](https://drive.google.com/open?id=1g9rCGo3Kd3hz2o5JKkSbgNsGJclvsuQm)
 
 ## Osteology related
-* [Plotting Dental Inventory with ggplot2](https://bjorn.rbind.io/post/dental-inv-plot/) by Bjorn [repository](https://github.com/bbartholdy/dental-inv-plot 
+* [Plotting Dental Inventory with ggplot2](https://bjorn.rbind.io/post/dental-inv-plot/) by Bjorn [repository](https://github.com/bbartholdy/dental-inv-plot)
 
 ## packages)
 * [ggx](https://github.com/brandmaier/ggx) to write out what you want changed in a plot
