@@ -31,7 +31,11 @@ Resources relevant to visualisation of isotopic results collected by Esther Plom
 * [r for Excel - ggplot2](https://rstudio-conf-2020.github.io/r-for-excel/ggplot2.html)
 * [Creating and using custom ggplot2 themes](https://themockup.blog/posts/2020-12-26-creating-and-using-custom-ggplot2-themes/)
 * [SDS 375—Data Visualization in R](https://wilkelab.org/SDS375/schedule.html) by Claus O. Wilke
-* 
+* [CRAN Task View: Archaeological Science](https://github.com/benmarwick/ctv-archaeology)
+      * [Cheung, C., & Szpak, P. (2020)](https://doi.org/10.1007/s10816-020-09492-5)
+      * [Cheung, C., & Szpak, P. (2021)](https://doi.org/10.1007/s10816-021-09514-w)
+      * [Drake, BL, et al, (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
+      * 
 
 ## Presentations
 * [Improving your data visualizations](https://osf.io/nsbpx/) by Dan Quintana
