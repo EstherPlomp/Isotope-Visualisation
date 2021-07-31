@@ -12,7 +12,7 @@ Resources relevant to visualisation of isotopic results collected by Esther Plom
 ## Osteology related
 * [Plotting Dental Inventory with ggplot2](https://bjorn.rbind.io/post/dental-inv-plot/) by Bjorn [repository](https://github.com/bbartholdy/dental-inv-plot)
 
-## packages)
+## packages
 * [ggx](https://github.com/brandmaier/ggx) to write out what you want changed in a plot
 * [patchwork](https://gotellilab.github.io/GotelliLabMeetingHacks/NickGotelli/ggplotPatchwork.html) for multiple plots
 * ggrepel allows you to annotate data points
@@ -21,7 +21,7 @@ Resources relevant to visualisation of isotopic results collected by Esther Plom
 ## Maps
 * [This map is on fire](https://www.patrickbaylis.com/blog/2021-01-31-fire-maps/)
 * pwr to conduct power analysis
-* 
+* GSIF package
 
 ## General Resources
 
