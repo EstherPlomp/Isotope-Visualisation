@@ -35,7 +35,8 @@ Resources relevant to visualisation of isotopic results collected by Esther Plom
      - [Cheung, C., & Szpak, P. (2020)](https://doi.org/10.1007/s10816-020-09492-5)
      - [Cheung, C., & Szpak, P. (2021)](https://doi.org/10.1007/s10816-021-09514-w)
      - [Drake, BL, et al, (2014)](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095580)
-     - 
+     - [Barbarena et al. (2021)](https://doi.org/10.3389/fevo.2021.584325)
+     - [Bataille et al. (2021)](https://doi.org/10.1371/journal.pone.0250383)
 
 ## Presentations
 * [Improving your data visualizations](https://osf.io/nsbpx/) by Dan Quintana
